@@ -60,7 +60,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="$" />
+                    android:text="$ " />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -101,7 +101,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p1"
                     android:text="17:30"
-                    android:textSize="10dp" />
+                    android:textSize="10sp" />
 
                 <Button
                     android:id="@+id/btnP2"
@@ -113,7 +113,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p2"
                     android:text="19:30"
-                    android:textSize="10dp" />
+                    android:textSize="10sp" />
 
                 <Button
                     android:id="@+id/btnP3"
@@ -125,7 +125,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p3"
                     android:text="20:00"
-                    android:textSize="10dp" />
+                    android:textSize="10sp" />
 
                 <Button
                     android:id="@+id/btnP4"
@@ -137,7 +137,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p4"
                     android:text="21:00"
-                    android:textSize="10dp" />
+                    android:textSize="10sp" />
             </LinearLayout>
 
             <Button
